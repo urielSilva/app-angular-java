@@ -1,1 +1,1 @@
-web:    java -jar target/app-exemplo-1.0-jar-with-dependencies.jar
+web:    java -jar target/app-java-angular-1.0-jar-with-dependencies.jar
